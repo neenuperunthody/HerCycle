@@ -1,0 +1,85 @@
+
+# ==========================================
+# HerCycle - iOS SwiftUI Project
+# ==========================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Xcode user-specific files
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Xcode build outputs
+build/
+Build/
+DerivedData/
+*.ipa
+*.app
+*.dSYM
+*.dSYM.zip
+*.bcsymbolmap
+
+# Xcode temporary files
+*.hmap
+*.ipa
+*.swp
+*~
+*.orig
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+.swiftpm/configuration/registries.json
+
+# CocoaPods (if used)
+Pods/
+
+# Carthage (if used)
+Carthage/Build/
+
+# Fastlane (if used)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Code coverage and test results
+*.xcresult
+coverage/
+*.profdata
+*.profraw
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+Secrets.xcconfig
+Secrets.plist
+*.p8
+*.p12
+*.mobileprovision
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# IDE
+.idea/
+.vscode/
+
+# Firebase local configuration (if applicable)
+# Uncomment if managed separately
+# GoogleService-Info.plist
+
